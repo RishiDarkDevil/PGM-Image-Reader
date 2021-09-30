@@ -1,4 +1,4 @@
-# PGM-Image-Reader
+# PGM Image Reader
 This is a program to read images of the type P5 with .pgm extension, i.e. portable gray map.
 It stores the pixel values as a matrix, to allow easy manipulation and image processing.
 To use this code you should compile(g++) and run it.
